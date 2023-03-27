@@ -3,5 +3,5 @@
 // To update the version number for a new release, run "sampctl package release"
 
 #define UTILS_VERSION_MAJOR (0)
-#define UTILS_VERSION_MINOR (1)
-#define UTILS_VERSION_PATCH (1)
+#define UTILS_VERSION_MINOR (2)
+#define UTILS_VERSION_PATCH (0)

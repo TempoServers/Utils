@@ -23,6 +23,8 @@
 ==============================================================================*/
 
 #include <a_samp>
+#include <TempoUtils\utils_user-interface>
+
 
 /// <param name="playerid">The ID of the player to clear the chat.</param>
 /// <remarks>Since the chat log cannot be cleared, it only prints several lines of empty text.</remarks>
